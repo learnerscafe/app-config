@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
 
   "interstitial_enabled": true,
   "interstitial_daily_cap": 50,
