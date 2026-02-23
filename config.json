@@ -5,7 +5,7 @@
   "interstitial_daily_cap": 50,
   "interstitial_cooldown_minutes": 1,
 
-  "rewarded_enabled": false,
+  "rewarded_enabled": true,
   "rewarded_daily_cap": 50,
   "rewarded_cooldown_minutes": 1
 }
