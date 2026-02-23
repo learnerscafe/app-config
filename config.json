@@ -1,11 +1,9 @@
 {
   "ads_enabled": true,
-
   "interstitial_enabled": true,
   "interstitial_daily_cap": 50,
   "interstitial_cooldown_minutes": 1,
 
   "rewarded_enabled": true,
-  "rewarded_daily_cap": 50,
-  "rewarded_cooldown_minutes": 1
+  "rewarded_daily_cap": 50
 }
