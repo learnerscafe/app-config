@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "interstitial_enabled": true,
   "interstitial_daily_cap": 10,
-  "interstitial_cooldown_minutes": 1,
+  "interstitial_cooldown_minutes": 3,
   "rewarded_enabled": true,
   "rewarded_daily_cap": 5,
   "rewarded_cooldown_minutes": 2,
