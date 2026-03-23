@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "banner_enabled": false,
+  "banner_enabled": true,
   "interstitial_enabled": true,
   "interstitial_daily_cap": 10,
   "interstitial_cooldown_minutes": 3,
