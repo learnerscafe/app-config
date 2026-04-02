@@ -1,12 +1,12 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "banner_enabled": true,
   "interstitial_enabled": true,
-  "interstitial_daily_cap": 10,
-  "interstitial_cooldown_minutes": 3,
+  "interstitial_daily_cap": 100,
+  "interstitial_cooldown_minutes": 30,
   "rewarded_enabled": true,
-  "rewarded_daily_cap": 10,
-  "rewarded_cooldown_minutes": 2,
+  "rewarded_daily_cap": 100,
+  "rewarded_cooldown_minutes": 1,
   "appopen_enabled": true,
-  "appopen_daily_cap": 3
+  "appopen_daily_cap": 10
 }
