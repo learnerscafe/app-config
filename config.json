@@ -3,10 +3,10 @@
   "banner_enabled": true,
   "interstitial_enabled": true,
   "interstitial_daily_cap": 100,
-  "interstitial_cooldown_minutes": 30,
+  "interstitial_cooldown_minutes": 1,
   "rewarded_enabled": true,
   "rewarded_daily_cap": 100,
   "rewarded_cooldown_minutes": 1,
   "appopen_enabled": true,
-  "appopen_daily_cap": 10
+  "appopen_daily_cap": 100
 }
