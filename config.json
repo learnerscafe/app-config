@@ -8,5 +8,8 @@
   "rewarded_daily_cap": 100,
   "rewarded_cooldown_minutes": 1,
   "appopen_enabled": true,
-  "appopen_daily_cap": 100
+  "appopen_daily_cap": 100,
+  "tasbih_lock_enabled": true,
+  "tasbih_lock_free_count": 100,
+  "tasbih_lock_days": 7
 }
