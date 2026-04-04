@@ -12,6 +12,5 @@
   "tasbih_lock_enabled": true,
   "tasbih_lock_free_count": 100,
   "tasbih_lock_days": 7
-  "tasbih_lock_ad_count": 1
   "tasbih_lock_ad_count": 5
 }
